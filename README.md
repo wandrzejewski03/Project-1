@@ -23,7 +23,11 @@ Tracks inventory usage, alerts for reorder points, and monitors product costs to
 
 Staff Management Dashboard:
 Offers insights into staff work schedules, payroll costs, and overall staffing efficiency.
+All of the dashboards can be found in pdf, PowerBi file, or down below in readme file.
 
 Real-time Data Updates
 By connecting SQL directly with Power BI, any updates or changes in the SQL datasets are automatically reflected in the Power BI visualizations, ensuring real-time data accuracy.
 
+![Dashboard 1](png's/DASHBOARD1.png)
+![Dashboard 1](png's/DASHBOARD2.png)
+![Dashboard 1](png's/DASHBOARD3.png)

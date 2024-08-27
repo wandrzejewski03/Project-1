@@ -31,6 +31,6 @@ By connecting SQL directly with Power BI, any updates or changes in the SQL data
 ![Dashboard 1](png's/DASHBOARDS/DASHBOARD1.png)
 ![Dashboard 1](png's/DASHBOARDS/DASHBOARD2.png)
 ![Dashboard 1](png's/DASHBOARDS/DASHBOARD3.png)
-![ERD 1](png's/ERD/PROJECT1-PIZZA.png)
+![ERD 1](png's/ERD/ERD.png)
 
 

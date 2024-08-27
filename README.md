@@ -28,9 +28,9 @@ All of the dashboards can be found in pdf, PowerBi file, or down below in readme
 Real-time Data Updates
 By connecting SQL directly with Power BI, any updates or changes in the SQL datasets are automatically reflected in the Power BI visualizations, ensuring real-time data accuracy.
 
-![Dashboard 1](png's/DASHBOARS/DASHBOARD1.png)
+![Dashboard 1](png's/DASHBOARDS/DASHBOARD1.png)
 ![Dashboard 1](png's/DASHBOARDS/DASHBOARD2.png)
 ![Dashboard 1](png's/DASHBOARDS/DASHBOARD3.png)
-![ERD 1](png's/ERD/PROJECT1 - PIZZA.png)
+![ERD 1](png's/ERD/PROJECT1-PIZZA.png)
 
 

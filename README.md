@@ -1,4 +1,4 @@
-# Project-1: SQL & PowerBI Project
+# Pizzeria Data Analytics with SQL & Power BI
 
 Welcome to my first data analytics project, where I explore the integration of SQL and Power BI to manage and visualize data for a pizzeria.
 
